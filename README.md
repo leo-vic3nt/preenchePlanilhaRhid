@@ -1,1 +1,1 @@
-# preenchePlanilhaRhid
+- Pequeno script para automatizar o processo de preenchimento de CSV usado pelo sistema RHID para importação de usuários
